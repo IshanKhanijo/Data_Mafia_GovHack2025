@@ -24,7 +24,7 @@ Australia has thousands of public datasets across ABS and other sources. People 
 ### 1) Ask a plain-English question
 Users describe their goal in normal language (e.g., “I want to open a mobile repair and accessory store”).
 
-![Homepage](images/homepage.png)
+![Homepage](imagesimages/homepage.png)
 
 ### 2) Smart Questions (guided wizard)
 The app asks a short series of targeted questions to clarify the use case:
@@ -33,15 +33,15 @@ The app asks a short series of targeted questions to clarify the use case:
 - Audience definition (workers vs residents vs both)
 …and more.
 
-![Smart Questions 1](images/smartq1.png)  
-![Smart Questions 2](images/smartq2.png)  
-![Smart Questions 3](images/smartq3.png)
+![Smart Questions 1](imagesimages/smartq1.png)  
+![Smart Questions 2](imagesimages/smartq2.png)  
+![Smart Questions 3](imagesimages/smartq3.png)
 
 ### 3) Generate a “Solution Plan” (recommended datasets + join strategy)
 The outcome is a practical plan: recommended datasets, how they connect, and what to do next.
 
-![Solution Plan](images/solutionplan1.png)  
-![Solution Plan (continued)](images/solutionplan2.png)
+![Solution Plan](imagesimages/solutionplan1.png)  
+![Solution Plan (continued)](imagesimages/solutionplan2.png)
 
 ### 4) Dataset cards with “Preview / Code / Open Source”
 Each dataset card includes:
@@ -51,9 +51,9 @@ Each dataset card includes:
 - **Preview** (sample rows / mini graph)
 - **Code snippets** (starter code to get moving)
 
-![Dataset list + actions](images/solutionplan2.png)  
-![Dataset preview](images/dset.png)  
-![Code snippet modal](images/codesnip.png)
+![Dataset list + actions](imagesimages/solutionplan2.png)  
+![Dataset preview](imagesimages/dset.png)  
+![Code snippet modal](imagesimages/codesnip.png)
 
 ### 5) Community Insights (reviews + success stories)
 A community layer that lets people:
@@ -61,8 +61,8 @@ A community layer that lets people:
 - Leave reviews and notes on what worked / didn’t
 - Provide reusable “dataset stacks” for common problems
 
-![Community insights](images/cinsight1.png)  
-![Community insights (reviews)](images/cinsight2.png)
+![Community insights](imagesimages/cinsight1.png)  
+![Community insights (reviews)](imagesimages/cinsight2.png)
 
 ### 6) Admin analytics dashboard (for dataset owners like ABS)
 A lightweight admin view to monitor:
@@ -70,8 +70,8 @@ A lightweight admin view to monitor:
 - Most / least downloaded datasets
 - Adoption and dataset performance signals
 
-![Admin dashboard](images/admin1.png)  
-![Admin dashboard (more)](images/admin2.png)
+![Admin dashboard](imagesimages/admin1.png)  
+![Admin dashboard (more)](imagesimages/admin2.png)
 
 ---
 
